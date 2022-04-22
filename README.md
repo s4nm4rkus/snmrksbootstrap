@@ -1,0 +1,2 @@
+# snmrksbootstrap
+Midterm Exam - Multimedia
