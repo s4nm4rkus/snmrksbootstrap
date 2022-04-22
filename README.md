@@ -1,2 +1,1 @@
-# snmrksbootstrap
-Midterm Exam - Multimedia
+TinDog Starting Files
